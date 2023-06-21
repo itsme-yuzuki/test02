@@ -11,6 +11,8 @@ public class Sample01 {
 
 		System.out.println("上手くいってよかった！なに作ろうかねえ～笑");
 
+		
+		System.out.println("2222");
 	}
 
 }
