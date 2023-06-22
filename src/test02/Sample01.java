@@ -20,6 +20,8 @@ public class Sample01 {
 		System.out.println("おやすみなさい");
 		
 		System.out.println("やっほー");
+		
+		System.out.println("お疲れ");
 	}
 
 }
