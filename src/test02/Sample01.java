@@ -21,7 +21,7 @@ public class Sample01 {
 		
 		System.out.println("やっほー");
 		
-		System.out.println("yyyで編集");
+		System.out.println("お疲れ");
 	}
 
 }
