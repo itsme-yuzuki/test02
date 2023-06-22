@@ -13,6 +13,8 @@ public class Sample01 {
 
 		
 		System.out.println("2222");
+		
+		System.out.println("test");
 	}
 
 }
